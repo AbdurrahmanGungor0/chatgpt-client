@@ -1,0 +1,100 @@
+@import 'modern-normalize/modern-normalize.css';
+
+@font-face {
+  font-family: 'Inter';
+  src: url('/fonts/Inter-VariableFont_opsz,wght.ttf') format('truetype');
+  font-optical-sizing: auto;
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+html {
+  font-size: 14px;
+  font-family: 'Inter';
+}
+
+* {
+  outline: none;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #dcdcdc;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #7d7461;
+  border-radius: 3px;
+}
+
+.btn {
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+
+  &.btn-sm {
+    & svg {
+      & + span {
+        margin-left: 5px;
+      }
+
+      height: 15px;
+    }
+  }
+
+  &.btn-primary {
+    color: #7D7461;
+    background: #f0f0f0;
+
+    &:hover {
+      background: #d2d2d2;
+    }
+  }
+
+  &.btn-success {
+    color: white;
+    background: #81C784;
+
+    &:hover {
+      background: #4CAF50;
+    }
+  }
+
+  & svg {
+    & + span {
+      margin-left: 8px;
+    }
+
+    height: 25px;
+  }
+
+  &.disabled {
+    opacity: 0.5;
+  }
+}
+
+.input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+
+  &:focus-visible {
+    box-shadow: 0 0 5px 0px #7D7461;
+  }
+}
+
+.page-header {
+  font-size: 20px;
+  font-weight: bold;
+  color: #7D7461;
+  flex-shrink: 0;
+  margin-bottom: 10px;
+}

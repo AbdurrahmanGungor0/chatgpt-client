@@ -27,7 +27,7 @@ npm install
 npm run dev
 ```
 
-### Üretim Derlemesi
+### Üretim Derlemesi (Mobile aktarım öncesi gereklidir)
 ```bash
 npm run build
 ```

@@ -139,6 +139,10 @@ const onPromptFocus = () => {
   }
 }
 
+router.beforeEach(() => {
+  setMobileView()
+})
+
 onMounted(() => {
   getData()
   setMobileView()

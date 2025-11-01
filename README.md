@@ -1,5 +1,9 @@
 # Simple Chat Uygulaması
 
+![Ekran Görüntüsü](./public/ekran-goruntusu-1.png)
+![Ekran Görüntüsü 2](./public/ekran-goruntusu-1.png)
+![Ekran Görüntüsü 3](./public/ekran-goruntusu-1.png)
+
 ## Genel Bakış
 Simple Chat, Vue 3 ve Vite tabanlı, modern ve kullanıcı dostu bir ChatGPT 5 api tabanlı sohbet uygulamasıdır. Mobil ve web platformlarında çalışacak şekilde Capacitor ile uyumlu geliştirilmiştir. Dexie.js ile yerel veritabanı yönetimi, modern arayüz bileşenleri ile pratik bir kullanıcı deneyimi hedeflenmiştir.
 

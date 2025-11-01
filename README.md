@@ -98,10 +98,10 @@ npx cap run ios
 - Responsive tasarım ile mobil ve masaüstü cihazlarda çalışır.
 
 ## Ekran Görüntüleri
-<div style='display:flex; width:100%; overflow:auto;'>
-<img src="./public/ekran-goruntusu-1.png" alt="Proje Logosu" width="500" />
-<img src="./public/ekran-goruntusu-2.png" alt="Proje Logosu" width="500" />
-<img src="./public/ekran-goruntusu-3.png" alt="Proje Logosu" width="500" />
+<div style='display:flex; width:100%; overflow:auto; flex-wrap:nowrap;'>
+<img src="./public/ekran-goruntusu-1.png" alt="Proje Logosu" height="300" />
+<img src="./public/ekran-goruntusu-2.png" alt="Proje Logosu" height="300" />
+<img src="./public/ekran-goruntusu-3.png" alt="Proje Logosu" height="300" />
 </div>
 
 ## Lisans

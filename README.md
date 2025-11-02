@@ -11,6 +11,7 @@ Simple Chat, Vue 3 ve Vite tabanlı, modern ve kullanıcı dostu bir ChatGPT 5 a
 - **Markdown desteği ve zengin mesaj formatlama**
 - **Capacitor Secure Storage ie güvenli api key saklama**
 - **Akış (stream) ve klasik yanıt modları**
+- **Tüm konuşmalarda harcanan token'ı görebilme**
 
 ## Kurulum ve Çalıştırma
 ### Gereksinimler

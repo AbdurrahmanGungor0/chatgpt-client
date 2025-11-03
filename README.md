@@ -105,10 +105,5 @@ npx cap run ios
 </div>
 
 ## Lisans
+MIT
 İstenilen şekilde kullanılabilir ve dağıtılabilir.
-
----
-
-**Geliştirici:** Abdurrahman Güngör  
-**Lisans:** MIT
-

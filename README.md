@@ -9,7 +9,7 @@ Simple Chat, Vue 3 ve Vite tabanlı, modern ve kullanıcı dostu bir ChatGPT 5 a
 - **Dexie.js ile IndexedDB tabanlı yerel veri saklama**
 - **Capacitor ile mobil uyumluluk**
 - **Markdown desteği ve zengin mesaj formatlama**
-- **Capacitor Secure Storage ie güvenli api key saklama**
+- **Capacitor Secure Storage ile güvenli api key saklama**
 - **Akış (stream) ve klasik yanıt modları**
 - **Tüm konuşmalarda harcanan token'ı görebilme**
 

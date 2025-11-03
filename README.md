@@ -93,7 +93,7 @@ npx cap run ios
 ## Güvenlik ve Gizlilik
 - API anahtarı, Capacitor Secure Storage ile güvenli şekilde saklanır.
 - Kullanıcı verileri yalnızca yerel olarak tutulur.
-- * OpenAI sunucu bağlantısı kurulumu client tarafta olduğu için konsolda uyarı mesajı görüntülemektedir. Server side rendering ile çözülebilir.
+- OpenAI sunucu bağlantısı kurulumu client tarafta olduğu için konsolda uyarı mesajı görüntülemektedir. Server side rendering ile çözülebilir.
 
 ## Mobil ve Web Uyumluluğu
 - Uygulama, Capacitor ile Android/iOS platformlarına kolayca aktarılabilir.
